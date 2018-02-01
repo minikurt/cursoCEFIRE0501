@@ -6,11 +6,7 @@ dos
 dos
 dos
 dos
-tres
-tres
-tres
-tres
-cinco
-cinco
-cinco
-cinco
+cuatro
+cuatro
+cuatro
+cuatro
